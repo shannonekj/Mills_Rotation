@@ -1,0 +1,25 @@
+##### MetaSim taxon profile - based on TOTAL abundance
+# for low human abundance (20%) & high Bifido abundance (68%)
+# plasmids and sequences <1000bp taken out
+#B.longum (16%)
+4667 taxid 1682
+#S.thermophilus (7.11%)
+107 taxid 1308
+#E.raffinosus (7.11%)
+48 taxid 17452
+#R.gnavus (7.11%)
+55 taxid 33038
+#B.vulgatus (7.11%)
+40 taxid 821
+#E.coli (7.11%)
+44 taxid 562
+#L.rhamnosus (7.11%)
+68 taxid 47715
+#V.dispar (7.11%)
+97 taxid 39778
+#C.bolteae (7.11%)
+32 taxid 208479
+#E.eligens (7.11%)
+96 taxid 39485
+#H.sapiens (80%)
+1 taxid 9606

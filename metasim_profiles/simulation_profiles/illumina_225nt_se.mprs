@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_80" class="java.beans.XMLDecoder">
+ <object class="metasim.util.settings.SimSettings" id="SimSettings0">
+  <void id="SimSettings$EmpiricalSettings0" property="empiricalSettings">
+   <void property="cloneParameters">
+    <void property="mean">
+     <double>225.0</double>
+    </void>
+    <void property="secondParameter">
+     <double>1.0</double>
+    </void>
+   </void>
+   <void property="errorModelFile">
+    <string>/home/sejoslin/simulation_profiles/Illumina_225nt.mconf</string>
+   </void>
+   <void property="read1_mid2end">
+    <boolean>true</boolean>
+   </void>
+  </void>
+  <void property="errorModel">
+   <object class="java.lang.Enum" method="valueOf">
+    <class>metasim.util.settings.SimSettings$ErrorModels</class>
+    <string>EMPIRICAL</string>
+   </object>
+  </void>
+  <void id="SimSettings$ExactSettings0" property="exactSettings">
+   <void property="cloneParameters">
+    <void property="mean">
+     <double>6000.0</double>
+    </void>
+    <void property="secondParameter">
+     <double>60.0</double>
+    </void>
+   </void>
+  </void>
+  <void property="numberOfFragments">
+   <long>8000000</long>
+  </void>
+  <void property="numberOfReadsimThreads">
+   <int>2</int>
+  </void>
+  <void property="presetName">
+   <string>Illumina_225nt_SE</string>
+  </void>
+  <void id="SimSettings$SangerSettings0" property="sangerSettings">
+   <void property="readParameters">
+    <void property="fileName">
+     <string>insertsizes.txt</string>
+    </void>
+   </void>
+  </void>
+ </object>
+</java>
