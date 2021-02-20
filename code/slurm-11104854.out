@@ -1,0 +1,43 @@
+==========================================
+SLURM_JOB_ID = 11104854
+SLURM_NODELIST = c8-24
+==========================================
+Making index for bmfilter
+Sun Mar 12 08:25:55 PDT 2017
+making index for srprism
+Sun Mar 12 09:06:42 PDT 2017
+Making blast database for blast
+Sun Mar 12 09:46:25 PDT 2017
+
+
+Building a new DB, current time: 03/12/2017 09:46:26
+New DB name:   hs37.fa
+New DB title:  hs37.fa
+Sequence type: Nucleotide
+Keep Linkouts: T
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 93 sequences in 42.5665 seconds.
+/group/kmkalangrp/SEKJ_work/bmtagger
+
+===========================================================================
+Job Finished
+
+Name                : bmtagger_makeref
+User                : sejoslin
+Partition           : med
+Nodes               : c8-24
+Cores               : 1
+State               : COMPLETED
+Submit              : 2017-03-12T08:25:54
+Start               : 2017-03-12T08:25:55
+End                 : 2017-03-12T09:47:09
+Reserved walltime   : 6-12:00:00
+Used walltime       :   01:21:14
+Used CPU time       :   01:20:00
+% User (Computation): 76.23%
+% System (I/O)      : 23.77%
+Mem reserved        : 0/node
+Max Mem used        : 8.61G (c8-24)
+Max Disk Write      : 30.29G (c8-24)
+Max Disk Read       : 8.82G (c8-24)

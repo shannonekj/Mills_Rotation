@@ -1,0 +1,27 @@
+==========================================
+SLURM_JOB_ID = 11104900
+SLURM_NODELIST = c8-24
+==========================================
+Sun Mar 12 19:16:43 PDT 2017
+
+===========================================================================
+Job Finished
+
+Name                : bmtagger_metasim
+User                : sejoslin
+Partition           : med
+Nodes               : c8-24
+Cores               : 1
+State               : COMPLETED
+Submit              : 2017-03-12T18:16:20
+Start               : 2017-03-12T18:16:22
+End                 : 2017-03-12T19:16:43
+Reserved walltime   : 6-12:00:00
+Used walltime       :   01:00:21
+Used CPU time       :   00:59:58
+% User (Computation): 98.16%
+% System (I/O)      :  1.84%
+Mem reserved        : 0/node
+Max Mem used        : 8.00G (c8-24)
+Max Disk Write      : 1.48G (c8-24)
+Max Disk Read       : 134.53G (c8-24)

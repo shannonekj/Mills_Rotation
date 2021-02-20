@@ -1,0 +1,75 @@
+==========================================
+SLURM_JOB_ID = 11159596
+SLURM_NODELIST = c11-16
+==========================================
+Wed Mar 22 10:07:23 PDT 2017
+Starting  highH_highB_totAbund-Empirical.8c74c739.fna
+Done creating  highH_highB_totAbund-Empirical.8c74c739.fa
+Wed Mar 22 10:07:55 PDT 2017
+Starting  highH_lowB_totAbund-Empirical.8c82190a.fna
+Done creating  highH_lowB_totAbund-Empirical.8c82190a.fa
+Wed Mar 22 10:08:26 PDT 2017
+Starting  lowH_highB_totAbund-Empirical.8c8f48af.fna
+Done creating  lowH_highB_totAbund-Empirical.8c8f48af.fa
+Wed Mar 22 10:08:57 PDT 2017
+Starting  lowH_lowB_totAbund-Empirical.8c9d0e18.fna
+Done creating  lowH_lowB_totAbund-Empirical.8c9d0e18.fa
+Wed Mar 22 10:09:32 PDT 2017
+Starting  highH_highB_totAbund-Empirical.8c74c739.fa
+Clipping Adapter: NNNN
+Min. Length: 5
+Input: 2218289693 reads.
+Output: 776391455 reads.
+discarded 0 too-short reads.
+discarded 0 adapter-only reads.
+discarded 1441898238 N reads.
+Done with  highH_highB_totAbund-Empirical.8c74c739.fa
+Starting  highH_lowB_totAbund-Empirical.8c82190a.fa
+Clipping Adapter: NNNN
+Min. Length: 5
+Input: 3951155882 reads.
+Output: 2688185103 reads.
+discarded 0 too-short reads.
+discarded 0 adapter-only reads.
+discarded 1262970779 N reads.
+Done with  highH_lowB_totAbund-Empirical.8c82190a.fa
+Starting  lowH_highB_totAbund-Empirical.8c8f48af.fa
+Clipping Adapter: NNNN
+Min. Length: 5
+Input: 622527305 reads.
+Output: 622971358 reads.
+discarded 0 too-short reads.
+discarded 0 adapter-only reads.
+discarded 4294523243 N reads.
+Done with  lowH_highB_totAbund-Empirical.8c8f48af.fa
+Starting  lowH_lowB_totAbund-Empirical.8c9d0e18.fa
+Clipping Adapter: NNNN
+Min. Length: 5
+Input: 1234777905 reads.
+Output: 324684746 reads.
+discarded 0 too-short reads.
+discarded 0 adapter-only reads.
+discarded 910093159 N reads.
+Done with  lowH_lowB_totAbund-Empirical.8c9d0e18.fa
+
+===========================================================================
+Job Finished
+
+Name                : QC_filtered_reads
+User                : sejoslin
+Partition           : med
+Nodes               : c11-16
+Cores               : 1
+State               : COMPLETED
+Submit              : 2017-03-22T10:07:23
+Start               : 2017-03-22T10:07:23
+End                 : 2017-03-22T10:16:00
+Reserved walltime   : 3-00:00:00
+Used walltime       :   00:08:37
+Used CPU time       :   00:07:40
+% User (Computation): 87.46%
+% System (I/O)      : 12.54%
+Mem reserved        : 0/node
+Max Mem used        : 3.03M (c11-16)
+Max Disk Write      : 23.36G (c11-16)
+Max Disk Read       : 23.70G (c11-16)

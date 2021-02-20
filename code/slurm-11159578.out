@@ -1,0 +1,28 @@
+==========================================
+SLURM_JOB_ID = 11159578
+SLURM_NODELIST = c11-14
+==========================================
+Wed Mar 22 07:49:44 PDT 2017
+Starting  highH_highB_totAbund-Empirical.8c74c739.fna
+
+===========================================================================
+Job Finished
+
+Name                : allocation
+User                : sejoslin
+Partition           : 
+Nodes               : c11-14
+Cores               : 1
+State               : FAILED
+Submit              : 2017-03-22T07:49:43
+Start               : 2017-03-22T07:49:44
+End                 : 2017-03-22T07:49:44
+Reserved walltime   : --
+Used walltime       : --
+Used CPU time       : --
+% User (Computation): 56.52%
+% System (I/O)      : 43.48%
+Mem reserved        : 0/node
+Max Mem used        : 0.00  (c11-14)
+Max Disk Write      : 0.00  (c11-14)
+Max Disk Read       : 0.00  (c11-14)

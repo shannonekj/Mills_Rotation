@@ -1,0 +1,26 @@
+==========================================
+SLURM_JOB_ID = 11087979
+SLURM_NODELIST = c9-40
+==========================================
+
+===========================================================================
+Job Finished
+
+Name                : deconseq_misclass
+User                : sejoslin
+Partition           : med
+Nodes               : c9-40
+Cores               : 1
+State               : COMPLETED
+Submit              : 2017-03-09T16:02:15
+Start               : 2017-03-09T16:02:16
+End                 : 2017-03-09T16:17:39
+Reserved walltime   : 1-12:00:00
+Used walltime       :   00:15:23
+Used CPU time       :   00:14:48
+% User (Computation): 98.77%
+% System (I/O)      :  1.23%
+Mem reserved        : 0/node
+Max Mem used        : 2.65M (c9-40)
+Max Disk Write      : 135.00M (c9-40)
+Max Disk Read       : 11.64G (c9-40)

@@ -1,0 +1,42 @@
+==========================================
+SLURM_JOB_ID = 11081008
+SLURM_NODELIST = c9-70
+==========================================
+Mon Mar  6 17:33:03 UTC 2017
+starting high human, high Bifido
+finished
+Tue Mar  7 10:08:25 PST 2017
+Tue Mar  7 10:08:25 PST 2017
+starting high human, low Bifido
+finished
+Wed Mar  8 10:13:03 PST 2017
+Wed Mar  8 10:13:03 PST 2017
+starting low human, high Bifido
+finished
+Wed Mar  8 20:30:32 PST 2017
+Wed Mar  8 20:30:32 PST 2017
+starting low human, low Bifido
+finished
+Thu Mar  9 07:20:34 PST 2017
+
+===========================================================================
+Job Finished
+
+Name                : deconseq_metasim
+User                : sejoslin
+Partition           : med
+Nodes               : c9-70
+Cores               : 1
+State               : COMPLETED
+Submit              : 2017-03-06T09:33:03
+Start               : 2017-03-06T09:33:03
+End                 : 2017-03-09T07:20:38
+Reserved walltime   : 5-00:00:00
+Used walltime       : 2-21:47:35
+Used CPU time       : 2-21:41:40
+% User (Computation): 99.75%
+% System (I/O)      :  0.25%
+Mem reserved        : 0/node
+Max Mem used        : 9.72G (c9-70)
+Max Disk Write      : 13.46G (c9-70)
+Max Disk Read       : 63.80G (c9-70)

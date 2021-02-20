@@ -1,0 +1,26 @@
+==========================================
+SLURM_JOB_ID = 11130613
+SLURM_NODELIST = c8-23
+==========================================
+
+===========================================================================
+Job Finished
+
+Name                : bmtagger_misclass
+User                : sejoslin
+Partition           : med
+Nodes               : c8-23
+Cores               : 1
+State               : COMPLETED
+Submit              : 2017-03-15T14:42:56
+Start               : 2017-03-15T14:42:56
+End                 : 2017-03-15T14:59:54
+Reserved walltime   : 1-12:00:00
+Used walltime       :   00:16:58
+Used CPU time       :   00:16:00
+% User (Computation): 98.92%
+% System (I/O)      :  1.08%
+Mem reserved        : 0/node
+Max Mem used        : 2.66M (c8-23)
+Max Disk Write      : 119.00M (c8-23)
+Max Disk Read       : 11.63G (c8-23)

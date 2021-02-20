@@ -1,0 +1,26 @@
+==========================================
+SLURM_JOB_ID = 11130610
+SLURM_NODELIST = c8-23
+==========================================
+
+===========================================================================
+Job Finished
+
+Name                : allocation
+User                : sejoslin
+Partition           : 
+Nodes               : c8-23
+Cores               : 1
+State               : COMPLETED
+Submit              : 2017-03-15T14:40:55
+Start               : 2017-03-15T14:40:55
+End                 : 2017-03-15T14:40:55
+Reserved walltime   : --
+Used walltime       : --
+Used CPU time       : --
+% User (Computation): 14.29%
+% System (I/O)      : 80.95%
+Mem reserved        : 0/node
+Max Mem used        : 0.00  (c8-23)
+Max Disk Write      : 0.00  (c8-23)
+Max Disk Read       : 0.00  (c8-23)

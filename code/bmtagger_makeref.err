@@ -1,0 +1,122 @@
+Module blast/2.2.29 loaded 
+Module srprism/1 loaded 
+Module bmtools/1 loaded 
+* Info: using 4^18 bits for discontiguous words 00000000000000111111111111111111 of 18 bases
+Completed: [08:26:00,2017-03-12]  1.8Mb Listing 18-mers of length 18 for lcl|GL000250.1: 4.6M op in 4s (1.2M op/sec)
+Completed: [08:26:04,2017-03-12]  1.8Mb Listing 18-mers of length 18 for lcl|GL000251.1: 4.8M op in 4s (1.2M op/sec)
+Completed: [08:26:07,2017-03-12]  11.2Mb Listing 18-mers of length 18 for lcl|GL000252.1: 4.6M op in 3s (1.5M op/sec)
+Completed: [08:26:11,2017-03-12]  11.3Mb Listing 18-mers of length 18 for lcl|GL000253.1: 4.7M op in 4s (1.2M op/sec)
+Completed: [08:26:14,2017-03-12]  11.3Mb Listing 18-mers of length 18 for lcl|GL000254.1: 4.8M op in 3s (1.6M op/sec)
+Completed: [08:26:17,2017-03-12]  11.3Mb Listing 18-mers of length 18 for lcl|GL000255.1: 4.6M op in 3s (1.5M op/sec)
+Completed: [08:26:21,2017-03-12]  11.3Mb Listing 18-mers of length 18 for lcl|GL000256.1: 4.9M op in 4s (1.2M op/sec)
+Completed: [08:26:21,2017-03-12]  11.3Mb Listing 18-mers of length 18 for lcl|GL000257.1: 590.4k op
+Completed: [08:26:23,2017-03-12]  11.3Mb Listing 18-mers of length 18 for lcl|GL000258.1: 1.7M op in 2s (840.4k op/sec)
+Completed: [08:26:23,2017-03-12]  11.3Mb Listing 18-mers of length 18 for lcl|NT_113921.2: 40.1k op
+Completed: [08:26:23,2017-03-12]  11.3Mb Listing 18-mers of length 18 for lcl|NT_113930.1: 174.6k op
+Completed: [08:26:23,2017-03-12]  11.3Mb Listing 18-mers of length 18 for lcl|NT_113941.1: 37.5k op
+Completed: [08:26:23,2017-03-12]  11.3Mb Listing 18-mers of length 18 for lcl|NT_113943.1: 81.3k op
+Completed: [08:26:23,2017-03-12]  11.3Mb Listing 18-mers of length 18 for lcl|NT_113945.1: 41k op
+Completed: [08:26:23,2017-03-12]  11.3Mb Listing 18-mers of length 18 for lcl|NT_113947.1: 4.3k op
+Completed: [08:26:23,2017-03-12]  11.3Mb Listing 18-mers of length 18 for lcl|NT_113948.1: 92.7k op
+Completed: [08:26:23,2017-03-12]  11.3Mb Listing 18-mers of length 18 for lcl|NT_113949.1: 159.2k op
+Completed: [08:26:23,2017-03-12]  11.3Mb Listing 18-mers of length 18 for lcl|NT_167207.1: 547.5k op
+Completed: [08:26:23,2017-03-12]  11.3Mb Listing 18-mers of length 18 for lcl|NT_113878.1: 106.4k op
+Completed: [08:26:24,2017-03-12]  11.3Mb Listing 18-mers of length 18 for lcl|NT_113950.2: 27.7k op in 1s (27.7k op/sec)
+Completed: [08:26:24,2017-03-12]  11.3Mb Listing 18-mers of length 18 for lcl|NT_113885.1: 189.8k op
+Completed: [08:26:24,2017-03-12]  11.3Mb Listing 18-mers of length 18 for lcl|NT_113888.1: 191.5k op
+Completed: [08:26:24,2017-03-12]  11.3Mb Listing 18-mers of length 18 for lcl|NT_113901.1: 182.9k op
+Completed: [08:26:24,2017-03-12]  11.3Mb Listing 18-mers of length 18 for lcl|NT_113907.1: 37.2k op
+Completed: [08:26:24,2017-03-12]  11.3Mb Listing 18-mers of length 18 for lcl|NT_113909.1: 38.9k op
+Completed: [08:26:24,2017-03-12]  11.3Mb Listing 18-mers of length 18 for lcl|NT_113916.2: 169.9k op
+Completed: [08:26:24,2017-03-12]  11.3Mb Listing 18-mers of length 18 for lcl|NT_113911.1: 36.1k op
+Completed: [08:26:24,2017-03-12]  11.3Mb Listing 18-mers of length 18 for lcl|NT_113914.1: 90.1k op
+Completed: [08:26:24,2017-03-12]  11.3Mb Listing 18-mers of length 18 for lcl|NT_113915.1: 187k op
+Completed: [08:26:24,2017-03-12]  11.3Mb Listing 18-mers of length 18 for lcl|NT_167208.1: 164.2k op
+Completed: [08:26:25,2017-03-12]  11.3Mb Listing 18-mers of length 18 for lcl|NT_167209.1: 137.7k op in 1s (137.7k op/sec)
+Completed: [08:26:25,2017-03-12]  11.3Mb Listing 18-mers of length 18 for lcl|NT_167210.1: 172.5k op
+Completed: [08:26:25,2017-03-12]  11.3Mb Listing 18-mers of length 18 for lcl|NT_167211.1: 172.3k op
+Completed: [08:26:25,2017-03-12]  11.3Mb Listing 18-mers of length 18 for lcl|NT_167212.1: 172.1k op
+Completed: [08:26:25,2017-03-12]  11.3Mb Listing 18-mers of length 18 for lcl|NT_167213.1: 179.2k op
+Completed: [08:26:25,2017-03-12]  11.3Mb Listing 18-mers of length 18 for lcl|NT_167214.1: 161.8k op
+Completed: [08:26:25,2017-03-12]  11.3Mb Listing 18-mers of length 18 for lcl|NT_167215.1: 155.4k op
+Completed: [08:26:25,2017-03-12]  11.3Mb Listing 18-mers of length 18 for lcl|NT_167216.1: 186.9k op
+Completed: [08:26:26,2017-03-12]  11.3Mb Listing 18-mers of length 18 for lcl|NT_167217.1: 180.5k op in 1s (180.5k op/sec)
+Completed: [08:26:26,2017-03-12]  11.3Mb Listing 18-mers of length 18 for lcl|NT_167218.1: 179.7k op
+Completed: [08:26:26,2017-03-12]  11.3Mb Listing 18-mers of length 18 for lcl|NT_167219.1: 211.2k op
+Completed: [08:26:26,2017-03-12]  11.3Mb Listing 18-mers of length 18 for lcl|NT_167220.1: 15k op
+Completed: [08:26:26,2017-03-12]  11.3Mb Listing 18-mers of length 18 for lcl|NT_167221.1: 128.4k op
+Completed: [08:26:26,2017-03-12]  11.3Mb Listing 18-mers of length 18 for lcl|NT_167222.1: 129.1k op
+Completed: [08:26:26,2017-03-12]  11.3Mb Listing 18-mers of length 18 for lcl|NT_167223.1: 19.9k op
+Completed: [08:26:26,2017-03-12]  11.3Mb Listing 18-mers of length 18 for lcl|NT_167224.1: 43.7k op
+Completed: [08:26:26,2017-03-12]  11.3Mb Listing 18-mers of length 18 for lcl|NT_167225.1: 27.4k op
+Completed: [08:26:26,2017-03-12]  11.3Mb Listing 18-mers of length 18 for lcl|NT_167226.1: 40.7k op
+Completed: [08:26:26,2017-03-12]  11.3Mb Listing 18-mers of length 18 for lcl|NT_167227.1: 45.9k op
+Completed: [08:26:26,2017-03-12]  11.3Mb Listing 18-mers of length 18 for lcl|NT_167228.1: 40.5k op
+Completed: [08:26:26,2017-03-12]  11.3Mb Listing 18-mers of length 18 for lcl|NT_167229.1: 34.5k op
+Completed: [08:26:26,2017-03-12]  11.3Mb Listing 18-mers of length 18 for lcl|NT_167230.1: 41.9k op
+Completed: [08:26:26,2017-03-12]  11.3Mb Listing 18-mers of length 18 for lcl|NT_167231.1: 45.9k op
+Completed: [08:26:26,2017-03-12]  11.3Mb Listing 18-mers of length 18 for lcl|NT_167232.1: 39.9k op
+Completed: [08:26:26,2017-03-12]  11.3Mb Listing 18-mers of length 18 for lcl|NT_167233.1: 33.8k op
+Completed: [08:26:26,2017-03-12]  11.3Mb Listing 18-mers of length 18 for lcl|NT_167234.1: 41.9k op
+Completed: [08:26:26,2017-03-12]  11.3Mb Listing 18-mers of length 18 for lcl|NT_167235.1: 42.2k op
+Completed: [08:26:26,2017-03-12]  11.3Mb Listing 18-mers of length 18 for lcl|NT_167236.1: 43.5k op
+Completed: [08:26:26,2017-03-12]  11.3Mb Listing 18-mers of length 18 for lcl|NT_167237.1: 43.3k op
+Completed: [08:26:26,2017-03-12]  11.3Mb Listing 18-mers of length 18 for lcl|NT_167238.1: 39.9k op
+Completed: [08:26:27,2017-03-12]  11.3Mb Listing 18-mers of length 18 for lcl|NT_167239.1: 36.7k op in 1s (36.7k op/sec)
+Completed: [08:26:27,2017-03-12]  11.3Mb Listing 18-mers of length 18 for lcl|NT_167240.1: 38.2k op
+Completed: [08:26:27,2017-03-12]  11.3Mb Listing 18-mers of length 18 for lcl|NT_167241.1: 36.4k op
+Completed: [08:26:27,2017-03-12]  11.3Mb Listing 18-mers of length 18 for lcl|NT_167242.1: 39.8k op
+Completed: [08:26:27,2017-03-12]  11.3Mb Listing 18-mers of length 18 for lcl|NT_167243.1: 38.5k op
+Completed: [08:26:27,2017-03-12]  11.3Mb Listing 18-mers of length 18 for lcl|NT_113889.1: 161.1k op
+Completed: [08:26:27,2017-03-12]  11.3Mb Listing 18-mers of length 18 for lcl|NT_113923.1: 186.9k op
+Completed: [08:26:27,2017-03-12]  11.3Mb Listing 18-mers of length 18 for lcl|NT_113961.1: 166.6k op
+Progress: [08:27:32,2017-03-12]  49.9Mb Listing 18-mers of length 18 for lcl|NC_000001.10: 82.6M op in 1m (1.4M op/sec)
+Progress: [08:28:32,2017-03-12]  49.9Mb Listing 18-mers of length 18 for lcl|NC_000001.10: 171.8M op in 2m (1.4M op/sec)
+Completed: [08:29:27,2017-03-12]  49.9Mb Listing 18-mers of length 18 for lcl|NC_000001.10: 249.3M op in 2m 55s (1.4M op/sec)
+Progress: [08:30:32,2017-03-12]  41.2Mb Listing 18-mers of length 18 for lcl|NC_000002.11: 82.8M op in 1m (1.4M op/sec)
+Progress: [08:31:32,2017-03-12]  41.2Mb Listing 18-mers of length 18 for lcl|NC_000002.11: 167.3M op in 2m (1.4M op/sec)
+Completed: [08:32:26,2017-03-12]  41.2Mb Listing 18-mers of length 18 for lcl|NC_000002.11: 243.2M op in 2m 54s (1.4M op/sec)
+Progress: [08:33:30,2017-03-12]  41.2Mb Listing 18-mers of length 18 for lcl|NC_000003.11: 82.8M op in 1m (1.4M op/sec)
+Progress: [08:34:30,2017-03-12]  41.2Mb Listing 18-mers of length 18 for lcl|NC_000003.11: 166.9M op in 2m (1.4M op/sec)
+Completed: [08:34:52,2017-03-12]  41.2Mb Listing 18-mers of length 18 for lcl|NC_000003.11: 198M op in 2m 22s (1.4M op/sec)
+Progress: [08:35:55,2017-03-12]  41.2Mb Listing 18-mers of length 18 for lcl|NC_000004.11: 82.8M op in 1m (1.4M op/sec)
+Progress: [08:36:55,2017-03-12]  41.2Mb Listing 18-mers of length 18 for lcl|NC_000004.11: 166.1M op in 2m (1.4M op/sec)
+Completed: [08:37:13,2017-03-12]  41.2Mb Listing 18-mers of length 18 for lcl|NC_000004.11: 191.2M op in 2m 18s (1.4M op/sec)
+Progress: [08:38:16,2017-03-12]  47.9Mb Listing 18-mers of length 18 for lcl|NC_000005.9: 83.2M op in 1m (1.4M op/sec)
+Progress: [08:39:16,2017-03-12]  47.9Mb Listing 18-mers of length 18 for lcl|NC_000005.9: 166.5M op in 2m (1.4M op/sec)
+Completed: [08:39:26,2017-03-12]  47.9Mb Listing 18-mers of length 18 for lcl|NC_000005.9: 180.9M op in 2m 10s (1.4M op/sec)
+Progress: [08:40:29,2017-03-12]  47.9Mb Listing 18-mers of length 18 for lcl|NC_000006.11: 83.4M op in 1m (1.4M op/sec)
+Progress: [08:41:29,2017-03-12]  47.9Mb Listing 18-mers of length 18 for lcl|NC_000006.11: 166.7M op in 2m (1.4M op/sec)
+Completed: [08:41:32,2017-03-12]  47.9Mb Listing 18-mers of length 18 for lcl|NC_000006.11: 171.1M op in 2m 3s (1.4M op/sec)
+Progress: [08:42:35,2017-03-12]  47.9Mb Listing 18-mers of length 18 for lcl|NC_000007.13: 84.2M op in 1m (1.4M op/sec)
+Completed: [08:43:28,2017-03-12]  47.9Mb Listing 18-mers of length 18 for lcl|NC_000007.13: 159.1M op in 1m 53s (1.4M op/sec)
+Progress: [08:44:31,2017-03-12]  47.9Mb Listing 18-mers of length 18 for lcl|NC_000008.10: 83.3M op in 1m (1.4M op/sec)
+Completed: [08:45:16,2017-03-12]  47.9Mb Listing 18-mers of length 18 for lcl|NC_000008.10: 146.4M op in 1m 45s (1.4M op/sec)
+Progress: [08:46:19,2017-03-12]  47.9Mb Listing 18-mers of length 18 for lcl|NC_000009.11: 88.5M op in 1m (1.5M op/sec)
+Completed: [08:46:56,2017-03-12]  47.9Mb Listing 18-mers of length 18 for lcl|NC_000009.11: 141.2M op in 1m 37s (1.5M op/sec)
+Progress: [08:47:59,2017-03-12]  47.9Mb Listing 18-mers of length 18 for lcl|NC_000010.10: 83.8M op in 1m (1.4M op/sec)
+Completed: [08:48:36,2017-03-12]  47.9Mb Listing 18-mers of length 18 for lcl|NC_000010.10: 135.5M op in 1m 37s (1.4M op/sec)
+Progress: [08:49:38,2017-03-12]  47.9Mb Listing 18-mers of length 18 for lcl|NC_000011.9: 83.4M op in 1m (1.4M op/sec)
+Completed: [08:50:15,2017-03-12]  47.9Mb Listing 18-mers of length 18 for lcl|NC_000011.9: 135M op in 1m 37s (1.4M op/sec)
+Progress: [08:51:17,2017-03-12]  47.9Mb Listing 18-mers of length 18 for lcl|NC_000012.11: 82.6M op in 1m (1.4M op/sec)
+Completed: [08:51:53,2017-03-12]  47.9Mb Listing 18-mers of length 18 for lcl|NC_000012.11: 133.9M op in 1m 36s (1.4M op/sec)
+Progress: [08:52:55,2017-03-12]  47.9Mb Listing 18-mers of length 18 for lcl|NC_000013.10: 86.8M op in 1m (1.4M op/sec)
+Completed: [08:53:15,2017-03-12]  47.9Mb Listing 18-mers of length 18 for lcl|NC_000013.10: 115.2M op in 1m 20s (1.4M op/sec)
+Progress: [08:54:17,2017-03-12]  47.9Mb Listing 18-mers of length 18 for lcl|NC_000014.8: 87.7M op in 1m (1.5M op/sec)
+Completed: [08:54:31,2017-03-12]  47.9Mb Listing 18-mers of length 18 for lcl|NC_000014.8: 107.3M op in 1m 14s (1.5M op/sec)
+Progress: [08:55:33,2017-03-12]  47.9Mb Listing 18-mers of length 18 for lcl|NC_000015.9: 88.5M op in 1m (1.5M op/sec)
+Completed: [08:55:43,2017-03-12]  47.9Mb Listing 18-mers of length 18 for lcl|NC_000015.9: 102.5M op in 1m 10s (1.5M op/sec)
+Progress: [08:56:44,2017-03-12]  47.9Mb Listing 18-mers of length 18 for lcl|NC_000016.9: 85.3M op in 1m (1.4M op/sec)
+Completed: [08:56:47,2017-03-12]  47.9Mb Listing 18-mers of length 18 for lcl|NC_000016.9: 90.4M op in 1m 3s (1.4M op/sec)
+Completed: [08:57:47,2017-03-12]  47.9Mb Listing 18-mers of length 18 for lcl|NC_000017.10: 81.2M op in 58s (1.4M op/sec)
+Completed: [08:58:44,2017-03-12]  47.9Mb Listing 18-mers of length 18 for lcl|NC_000018.9: 78.1M op in 56s (1.4M op/sec)
+Completed: [08:59:26,2017-03-12]  47.9Mb Listing 18-mers of length 18 for lcl|NC_000019.9: 59.1M op in 41s (1.4M op/sec)
+Completed: [09:00:13,2017-03-12]  47.9Mb Listing 18-mers of length 18 for lcl|NC_000020.10: 63M op in 45s (1.4M op/sec)
+Completed: [09:00:46,2017-03-12]  47.9Mb Listing 18-mers of length 18 for lcl|NC_000021.8: 48.1M op in 33s (1.5M op/sec)
+Completed: [09:01:21,2017-03-12]  47.9Mb Listing 18-mers of length 18 for lcl|NC_000022.10: 51.3M op in 34s (1.5M op/sec)
+Progress: [09:02:24,2017-03-12]  47.9Mb Listing 18-mers of length 18 for lcl|NC_000023.10: 83.8M op in 1m (1.4M op/sec)
+Completed: [09:03:15,2017-03-12]  47.9Mb Listing 18-mers of length 18 for lcl|NC_000023.10: 155.3M op in 1m 51s (1.4M op/sec)
+Completed: [09:03:53,2017-03-12]  47.9Mb Listing 18-mers of length 18 for lcl|NC_000024.9: 59.4M op in 37s (1.6M op/sec)
+Completed: [09:03:53,2017-03-12]  47.9Mb Listing 18-mers of length 18 for lcl|NC_001807.4: 16.6k op
+Progress: [09:06:14,2017-03-12]  47.9Mb Writing flat bitmask to hs37.bitmask: 1 op in 2m 21s (inf op/hour)
+Completed: [09:06:41,2017-03-12]  47.9Mb Writing flat bitmask to hs37.bitmask: 8.2k op in 2m 48s (48.8 op/sec)

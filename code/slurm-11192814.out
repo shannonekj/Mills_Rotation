@@ -1,0 +1,36 @@
+==========================================
+SLURM_JOB_ID = 11192814
+SLURM_NODELIST = c11-14
+==========================================
+Decontamination of QC'd MetaSim files
+Thu Mar 23 11:37:18 PDT 2017
+Starting  /group/kmkalangrp/SEKJ_work/simulated_metagenomes/Hsap_contam_metasim_db/QC_filtered_reads/highH_highB_totAbund-Empirical.8c74c739.fa
+Finished  /group/kmkalangrp/SEKJ_work/simulated_metagenomes/Hsap_contam_metasim_db/QC_filtered_reads/highH_highB_totAbund-Empirical.8c74c739.fa date
+Starting  /group/kmkalangrp/SEKJ_work/simulated_metagenomes/Hsap_contam_metasim_db/QC_filtered_reads/highH_lowB_totAbund-Empirical.8c82190a.fa
+Finished  /group/kmkalangrp/SEKJ_work/simulated_metagenomes/Hsap_contam_metasim_db/QC_filtered_reads/highH_lowB_totAbund-Empirical.8c82190a.fa date
+Starting  /group/kmkalangrp/SEKJ_work/simulated_metagenomes/Hsap_contam_metasim_db/QC_filtered_reads/lowH_highB_totAbund-Empirical.8c8f48af.fa
+Finished  /group/kmkalangrp/SEKJ_work/simulated_metagenomes/Hsap_contam_metasim_db/QC_filtered_reads/lowH_highB_totAbund-Empirical.8c8f48af.fa date
+Starting  /group/kmkalangrp/SEKJ_work/simulated_metagenomes/Hsap_contam_metasim_db/QC_filtered_reads/lowH_lowB_totAbund-Empirical.8c9d0e18.fa
+Finished  /group/kmkalangrp/SEKJ_work/simulated_metagenomes/Hsap_contam_metasim_db/QC_filtered_reads/lowH_lowB_totAbund-Empirical.8c9d0e18.fa date
+
+===========================================================================
+Job Finished
+
+Name                : deconseq_metasim_QC
+User                : sejoslin
+Partition           : med
+Nodes               : c11-14
+Cores               : 1
+State               : COMPLETED
+Submit              : 2017-03-23T11:37:07
+Start               : 2017-03-23T11:37:08
+End                 : 2017-03-25T09:43:45
+Reserved walltime   : 7-12:00:00
+Used walltime       : 1-22:06:37
+Used CPU time       : 1-22:03:51
+% User (Computation): 99.84%
+% System (I/O)      :  0.16%
+Mem reserved        : 0/node
+Max Mem used        : 9.62G (c11-14)
+Max Disk Write      : 12.76G (c11-14)
+Max Disk Read       : 62.01G (c11-14)

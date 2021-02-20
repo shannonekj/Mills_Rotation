@@ -1,0 +1,74 @@
+Module JAVA 1.8 Loaded.
+Module bbmap/36-67 loaded 
+java -ea -Xmx49797m -cp /share/apps/bbmap-36-67/current/ driver.FilterReadsByName in=../simulated_metagenomes/Hsap_contam_metasim_db/highH_highB_totAbund-Empirical.8c74c739.fna out=/group/kmkalangrp/SEKJ_work/simulated_metagenomes/Hsap_contam_metasim_db/bmtagger_output/bmtagger_8c74c739/8c74c739.clean.fasta names=/group/kmkalangrp/SEKJ_work/simulated_metagenomes/Hsap_contam_metasim_db/bmtagger_output/bmtagger_8c74c739/8c74c739.human include=f
+Executing driver.FilterReadsByName [in=../simulated_metagenomes/Hsap_contam_metasim_db/highH_highB_totAbund-Empirical.8c74c739.fna, out=/group/kmkalangrp/SEKJ_work/simulated_metagenomes/Hsap_contam_metasim_db/bmtagger_output/bmtagger_8c74c739/8c74c739.clean.fasta, names=/group/kmkalangrp/SEKJ_work/simulated_metagenomes/Hsap_contam_metasim_db/bmtagger_output/bmtagger_8c74c739/8c74c739.human, include=f]
+
+Input is being processed as unpaired
+Time:               58.168 seconds.
+Reads Processed:    8000000 	137.53k reads/sec
+Bases Processed:    1796947419 	30.89m bases/sec
+Reads Out:          1925254
+Bases Out:          432447461
+java -ea -Xmx49793m -cp /share/apps/bbmap-36-67/current/ driver.FilterReadsByName in=../simulated_metagenomes/Hsap_contam_metasim_db/highH_lowB_totAbund-Empirical.8c82190a.fna out=/group/kmkalangrp/SEKJ_work/simulated_metagenomes/Hsap_contam_metasim_db/bmtagger_output/bmtagger_8c82190a/8c82190a.clean.fasta names=/group/kmkalangrp/SEKJ_work/simulated_metagenomes/Hsap_contam_metasim_db/bmtagger_output/bmtagger_8c82190a/8c82190a.human include=f
+Executing driver.FilterReadsByName [in=../simulated_metagenomes/Hsap_contam_metasim_db/highH_lowB_totAbund-Empirical.8c82190a.fna, out=/group/kmkalangrp/SEKJ_work/simulated_metagenomes/Hsap_contam_metasim_db/bmtagger_output/bmtagger_8c82190a/8c82190a.clean.fasta, names=/group/kmkalangrp/SEKJ_work/simulated_metagenomes/Hsap_contam_metasim_db/bmtagger_output/bmtagger_8c82190a/8c82190a.human, include=f]
+
+Input is being processed as unpaired
+Time:               55.882 seconds.
+Reads Processed:    8000000 	143.16k reads/sec
+Bases Processed:    1796945464 	32.16m bases/sec
+Reads Out:          1938989
+Bases Out:          435530797
+java -ea -Xmx49788m -cp /share/apps/bbmap-36-67/current/ driver.FilterReadsByName in=../simulated_metagenomes/Hsap_contam_metasim_db/lowH_highB_totAbund-Empirical.8c8f48af.fna out=/group/kmkalangrp/SEKJ_work/simulated_metagenomes/Hsap_contam_metasim_db/bmtagger_output/bmtagger_8c8f48af/8c8f48af.clean.fasta names=/group/kmkalangrp/SEKJ_work/simulated_metagenomes/Hsap_contam_metasim_db/bmtagger_output/bmtagger_8c8f48af/8c8f48af.human include=f
+Executing driver.FilterReadsByName [in=../simulated_metagenomes/Hsap_contam_metasim_db/lowH_highB_totAbund-Empirical.8c8f48af.fna, out=/group/kmkalangrp/SEKJ_work/simulated_metagenomes/Hsap_contam_metasim_db/bmtagger_output/bmtagger_8c8f48af/8c8f48af.clean.fasta, names=/group/kmkalangrp/SEKJ_work/simulated_metagenomes/Hsap_contam_metasim_db/bmtagger_output/bmtagger_8c8f48af/8c8f48af.human, include=f]
+
+Input is being processed as unpaired
+Time:               47.881 seconds.
+Reads Processed:    8000000 	167.08k reads/sec
+Bases Processed:    1796945125 	37.53m bases/sec
+Reads Out:          6483362
+Bases Out:          1456280660
+java -ea -Xmx49781m -cp /share/apps/bbmap-36-67/current/ driver.FilterReadsByName in=../simulated_metagenomes/Hsap_contam_metasim_db/lowH_lowB_totAbund-Empirical.8c9d0e18.fna out=/group/kmkalangrp/SEKJ_work/simulated_metagenomes/Hsap_contam_metasim_db/bmtagger_output/bmtagger_8c9d0e18/8c9d0e18.clean.fasta names=/group/kmkalangrp/SEKJ_work/simulated_metagenomes/Hsap_contam_metasim_db/bmtagger_output/bmtagger_8c9d0e18/8c9d0e18.human include=f
+Executing driver.FilterReadsByName [in=../simulated_metagenomes/Hsap_contam_metasim_db/lowH_lowB_totAbund-Empirical.8c9d0e18.fna, out=/group/kmkalangrp/SEKJ_work/simulated_metagenomes/Hsap_contam_metasim_db/bmtagger_output/bmtagger_8c9d0e18/8c9d0e18.clean.fasta, names=/group/kmkalangrp/SEKJ_work/simulated_metagenomes/Hsap_contam_metasim_db/bmtagger_output/bmtagger_8c9d0e18/8c9d0e18.human, include=f]
+
+Input is being processed as unpaired
+Time:               49.340 seconds.
+Reads Processed:    8000000 	162.14k reads/sec
+Bases Processed:    1796946822 	36.42m bases/sec
+Reads Out:          6485878
+Bases Out:          1456846261
+java -ea -Xmx49777m -cp /share/apps/bbmap-36-67/current/ driver.FilterReadsByName in=../simulated_metagenomes/Hsap_contam_metasim_db/highH_highB_totAbund-Empirical.8c74c739.fna out=/group/kmkalangrp/SEKJ_work/simulated_metagenomes/Hsap_contam_metasim_db/bmtagger_output/bmtagger_8c74c739/8c74c739.cont.fasta names=/group/kmkalangrp/SEKJ_work/simulated_metagenomes/Hsap_contam_metasim_db/bmtagger_output/bmtagger_8c74c739/8c74c739.human include=t
+Executing driver.FilterReadsByName [in=../simulated_metagenomes/Hsap_contam_metasim_db/highH_highB_totAbund-Empirical.8c74c739.fna, out=/group/kmkalangrp/SEKJ_work/simulated_metagenomes/Hsap_contam_metasim_db/bmtagger_output/bmtagger_8c74c739/8c74c739.cont.fasta, names=/group/kmkalangrp/SEKJ_work/simulated_metagenomes/Hsap_contam_metasim_db/bmtagger_output/bmtagger_8c74c739/8c74c739.human, include=t]
+
+Input is being processed as unpaired
+Time:               69.777 seconds.
+Reads Processed:    8000000 	114.65k reads/sec
+Bases Processed:    1796947419 	25.75m bases/sec
+Reads Out:          6074746
+Bases Out:          1364499958
+java -ea -Xmx49889m -cp /share/apps/bbmap-36-67/current/ driver.FilterReadsByName in=../simulated_metagenomes/Hsap_contam_metasim_db/highH_lowB_totAbund-Empirical.8c82190a.fna out=/group/kmkalangrp/SEKJ_work/simulated_metagenomes/Hsap_contam_metasim_db/bmtagger_output/bmtagger_8c82190a/8c82190a.cont.fasta names=/group/kmkalangrp/SEKJ_work/simulated_metagenomes/Hsap_contam_metasim_db/bmtagger_output/bmtagger_8c82190a/8c82190a.human include=t
+Executing driver.FilterReadsByName [in=../simulated_metagenomes/Hsap_contam_metasim_db/highH_lowB_totAbund-Empirical.8c82190a.fna, out=/group/kmkalangrp/SEKJ_work/simulated_metagenomes/Hsap_contam_metasim_db/bmtagger_output/bmtagger_8c82190a/8c82190a.cont.fasta, names=/group/kmkalangrp/SEKJ_work/simulated_metagenomes/Hsap_contam_metasim_db/bmtagger_output/bmtagger_8c82190a/8c82190a.human, include=t]
+
+Input is being processed as unpaired
+Time:               78.649 seconds.
+Reads Processed:    8000000 	101.72k reads/sec
+Bases Processed:    1796945464 	22.85m bases/sec
+Reads Out:          6061011
+Bases Out:          1361414667
+java -ea -Xmx49885m -cp /share/apps/bbmap-36-67/current/ driver.FilterReadsByName in=../simulated_metagenomes/Hsap_contam_metasim_db/lowH_highB_totAbund-Empirical.8c8f48af.fna out=/group/kmkalangrp/SEKJ_work/simulated_metagenomes/Hsap_contam_metasim_db/bmtagger_output/bmtagger_8c8f48af/8c8f48af.cont.fasta names=/group/kmkalangrp/SEKJ_work/simulated_metagenomes/Hsap_contam_metasim_db/bmtagger_output/bmtagger_8c8f48af/8c8f48af.human include=t
+Executing driver.FilterReadsByName [in=../simulated_metagenomes/Hsap_contam_metasim_db/lowH_highB_totAbund-Empirical.8c8f48af.fna, out=/group/kmkalangrp/SEKJ_work/simulated_metagenomes/Hsap_contam_metasim_db/bmtagger_output/bmtagger_8c8f48af/8c8f48af.cont.fasta, names=/group/kmkalangrp/SEKJ_work/simulated_metagenomes/Hsap_contam_metasim_db/bmtagger_output/bmtagger_8c8f48af/8c8f48af.human, include=t]
+
+Input is being processed as unpaired
+Time:               39.537 seconds.
+Reads Processed:    8000000 	202.34k reads/sec
+Bases Processed:    1796945125 	45.45m bases/sec
+Reads Out:          1516638
+Bases Out:          340664465
+java -ea -Xmx49885m -cp /share/apps/bbmap-36-67/current/ driver.FilterReadsByName in=../simulated_metagenomes/Hsap_contam_metasim_db/lowH_lowB_totAbund-Empirical.8c9d0e18.fna out=/group/kmkalangrp/SEKJ_work/simulated_metagenomes/Hsap_contam_metasim_db/bmtagger_output/bmtagger_8c9d0e18/8c9d0e18.cont.fasta names=/group/kmkalangrp/SEKJ_work/simulated_metagenomes/Hsap_contam_metasim_db/bmtagger_output/bmtagger_8c9d0e18/8c9d0e18.human include=t
+Executing driver.FilterReadsByName [in=../simulated_metagenomes/Hsap_contam_metasim_db/lowH_lowB_totAbund-Empirical.8c9d0e18.fna, out=/group/kmkalangrp/SEKJ_work/simulated_metagenomes/Hsap_contam_metasim_db/bmtagger_output/bmtagger_8c9d0e18/8c9d0e18.cont.fasta, names=/group/kmkalangrp/SEKJ_work/simulated_metagenomes/Hsap_contam_metasim_db/bmtagger_output/bmtagger_8c9d0e18/8c9d0e18.human, include=t]
+
+Input is being processed as unpaired
+Time:               40.450 seconds.
+Reads Processed:    8000000 	197.77k reads/sec
+Bases Processed:    1796946822 	44.42m bases/sec
+Reads Out:          1514122
+Bases Out:          340100561

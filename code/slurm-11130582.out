@@ -1,0 +1,26 @@
+==========================================
+SLURM_JOB_ID = 11130582
+SLURM_NODELIST = c9-40
+==========================================
+
+===========================================================================
+Job Finished
+
+Name                : allocation
+User                : sejoslin
+Partition           : 
+Nodes               : c9-40
+Cores               : 1
+State               : COMPLETED
+Submit              : 2017-03-15T14:16:03
+Start               : 2017-03-15T14:16:03
+End                 : 2017-03-15T14:16:03
+Reserved walltime   : --
+Used walltime       : --
+Used CPU time       : --
+% User (Computation):  0.00%
+% System (I/O)      : 100.00%
+Mem reserved        : 0/node
+Max Mem used        : 0.00  (c9-40)
+Max Disk Write      : 0.00  (c9-40)
+Max Disk Read       : 0.00  (c9-40)

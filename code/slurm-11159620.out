@@ -1,0 +1,35 @@
+==========================================
+SLURM_JOB_ID = 11159620
+SLURM_NODELIST = c11-16
+==========================================
+Wed Mar 22 11:00:02 PDT 2017
+Starting  /group/kmkalangrp/SEKJ_work/simulated_metagenomes/Hsap_contam_metasim_db/QC_filtered_reads/highH_highB_totAbund-Empirical.8c74c739.fa
+Finished  /group/kmkalangrp/SEKJ_work/simulated_metagenomes/Hsap_contam_metasim_db/QC_filtered_reads/highH_highB_totAbund-Empirical.8c74c739.fa date
+Starting  /group/kmkalangrp/SEKJ_work/simulated_metagenomes/Hsap_contam_metasim_db/QC_filtered_reads/highH_lowB_totAbund-Empirical.8c82190a.fa
+Finished  /group/kmkalangrp/SEKJ_work/simulated_metagenomes/Hsap_contam_metasim_db/QC_filtered_reads/highH_lowB_totAbund-Empirical.8c82190a.fa date
+Starting  /group/kmkalangrp/SEKJ_work/simulated_metagenomes/Hsap_contam_metasim_db/QC_filtered_reads/lowH_highB_totAbund-Empirical.8c8f48af.fa
+Finished  /group/kmkalangrp/SEKJ_work/simulated_metagenomes/Hsap_contam_metasim_db/QC_filtered_reads/lowH_highB_totAbund-Empirical.8c8f48af.fa date
+Starting  /group/kmkalangrp/SEKJ_work/simulated_metagenomes/Hsap_contam_metasim_db/QC_filtered_reads/lowH_lowB_totAbund-Empirical.8c9d0e18.fa
+Finished  /group/kmkalangrp/SEKJ_work/simulated_metagenomes/Hsap_contam_metasim_db/QC_filtered_reads/lowH_lowB_totAbund-Empirical.8c9d0e18.fa date
+
+===========================================================================
+Job Finished
+
+Name                : allocation
+User                : sejoslin
+Partition           : 
+Nodes               : c11-16
+Cores               : 1
+State               : COMPLETED
+Submit              : 2017-03-22T11:00:01
+Start               : 2017-03-22T11:00:02
+End                 : 2017-03-22T11:00:02
+Reserved walltime   : --
+Used walltime       : --
+Used CPU time       : --
+% User (Computation): 77.44%
+% System (I/O)      : 22.56%
+Mem reserved        : 0/node
+Max Mem used        : 0.00  (c11-16)
+Max Disk Write      : 0.00  (c11-16)
+Max Disk Read       : 0.00  (c11-16)

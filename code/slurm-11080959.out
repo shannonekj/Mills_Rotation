@@ -1,0 +1,39 @@
+==========================================
+SLURM_JOB_ID = 11080959
+SLURM_NODELIST = c9-70
+==========================================
+Mon Mar  6 17:07:17 UTC 2017
+unziping highH_highB_totAbund-Empirical.8c74c739.fna.gz
+done
+Mon Mar  6 17:07:49 UTC 2017
+unzipping highH_lowB_totAbund-Empirical.8c82190a.fna.gz
+done
+Mon Mar  6 17:08:27 UTC 2017
+unzippping lowH_highB_totAbund-Empirical.8c8f48af.fna.gz
+done
+Mon Mar  6 17:09:07 UTC 2017
+unzipping lowH_lowB_totAbund-Empirical.8c9d0e18.fna.gz
+done
+Mon Mar  6 17:09:48 UTC 2017
+
+===========================================================================
+Job Finished
+
+Name                : unpack_all
+User                : sejoslin
+Partition           : med
+Nodes               : c9-70
+Cores               : 1
+State               : COMPLETED
+Submit              : 2017-03-06T09:07:16
+Start               : 2017-03-06T09:07:16
+End                 : 2017-03-06T09:09:48
+Reserved walltime   : 2-12:00:00
+Used walltime       :   00:02:32
+Used CPU time       :   00:01:51
+% User (Computation): 84.55%
+% System (I/O)      : 15.44%
+Mem reserved        : 0/node
+Max Mem used        : 2.05M (c9-70)
+Max Disk Write      : 11.97G (c9-70)
+Max Disk Read       : 2.73G (c9-70)

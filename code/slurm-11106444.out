@@ -1,0 +1,28 @@
+==========================================
+SLURM_JOB_ID = 11106444
+SLURM_NODELIST = c9-41
+==========================================
+Start time:  date
+Finish time:  date
+
+===========================================================================
+Job Finished
+
+Name                : bmtagger_metasim_filter
+User                : sejoslin
+Partition           : med
+Nodes               : c9-41
+Cores               : 1
+State               : COMPLETED
+Submit              : 2017-03-13T12:35:44
+Start               : 2017-03-13T12:35:44
+End                 : 2017-03-13T12:45:45
+Reserved walltime   : 3-12:00:00
+Used walltime       :   00:10:01
+Used CPU time       :   00:07:28
+% User (Computation): 85.81%
+% System (I/O)      : 14.19%
+Mem reserved        : 0/node
+Max Mem used        : 4.31G (c9-41)
+Max Disk Write      : 6.68G (c9-41)
+Max Disk Read       : 12.15G (c9-41)

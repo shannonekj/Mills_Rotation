@@ -1,0 +1,26 @@
+==========================================
+SLURM_JOB_ID = 11107305
+SLURM_NODELIST = c9-70
+==========================================
+
+===========================================================================
+Job Finished
+
+Name                : bmt_VS_decon
+User                : sejoslin
+Partition           : med
+Nodes               : c9-70
+Cores               : 1
+State               : CANCELLED,TIMEOUT
+Submit              : 2017-03-13T16:12:32
+Start               : 2017-03-13T16:12:33
+End                 : 2017-03-13T19:12:52
+Reserved walltime   : 03:00:00
+Used walltime       : 03:00:19
+Used CPU time       : 02:57:09
+% User (Computation): 96.65%
+% System (I/O)      :  3.35%
+Mem reserved        : 0/node
+Max Mem used        : 41.39G (c9-70)
+Max Disk Write      : 0.00  (c9-70)
+Max Disk Read       : 63.00M (c9-70)
