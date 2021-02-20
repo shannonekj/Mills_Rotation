@@ -1,0 +1,12 @@
+This directory contains files from Shannon Joslin's 2017 rotation in the Mill's lab. 
+
+Files include:
+	files_forOutput_Summary.xlsx			Excel used to calculate false positive/negatives and number of reads for each software. Not to be used for import into R.
+	MetaSim-Deconseq_BMTagger_plot.R		R script to generate graphs (to be used with metasim_summary_forR.txt).
+	MetaSim_Decont_Eval_15Apr2018.docx		Updated write up from Winter 2017 rotation.
+	metasim_summary_forR.txt			
+		software	human_level	bif_level	sensitivity	specificity	accuracy
+	Supplemental_1_ErrorProfile.txt			Error profile for use in creating simulated metagenome.
+	Supplemental_2a_deconseq_metasim_QC.sh		Script to run Deconseq
+	Supplemental_2b_bmtagger_metasim_QC.sh		Script to run BMTagger
+	Supplemetal_2c_bmtagger_metasim_step2.sh	Script to run second step of BMTagger

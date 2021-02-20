@@ -1,0 +1,9 @@
+software	human_level	bif_level	sensitivity	specificity	accuracy
+BMTagger	high	high	0.949151478	1	0.95932
+BMTagger	high	low	0.948976294	1	0.959264625
+BMTagger	low	high	0.949037001	1	0.989819625
+BMTagger	low	low	0.948892411	1	0.989806125
+Deconseq	high	high	0.942186524	1	0.953747875
+Deconseq	high	low	0.941990583	1	0.9536875
+Deconseq	low	high	0.942047994	1	0.9884235
+Deconseq	low	low	0.941843348	1	0.988400125
